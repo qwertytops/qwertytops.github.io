@@ -3,7 +3,7 @@ function Continue(button) {
     document.getElementById("hhh").innerHTML = `Dearest Janet,<br>
     You've told me once and implied many a time that you don't want a close relationship with me or any guy right now, and
     to be perfectly honest I don't know if I'm ready for you either.<br>
-    However, there is no one in the world as lovely and impressive as you, and it would be a crime to not at least give this a shot 
+    However, there is no one in the world as lovely as you, and it would be a crime to not at least give this a shot 
     regardless of our age difference which was the lamest excuse I have ever heard by the way &#128522.
     I am madly in love with you and have been for quite a while, 
     and nothing would make me happier than to take you out and treat you like the Queen you are even just once. 
@@ -12,9 +12,10 @@ function Continue(button) {
     and I will go broke within a month if I do. I haven't actually asked anything yet though so here's my question:<br>
     Will you go out with me sometime and let me show you how much I love you? 
     I want to talk to you in real life away from distractions and other people. 
-    All of our most fun and interesting conversations have been on Messenger which is a dismal state of affairs that I want to change.<br><br>
+    All of our most fun and interesting conversations have been on Messenger which is a dismal state of affairs that I want to change.<br>
+    Respond in whatever manner you wish.<br><br>
     From your loving friend,<br>
-    Liam<br><br>`
+    Liam &#128149<br><br>`
 
     document.getElementById("jjj").innerHTML = `--DISCLAIMER FOR LEGAL REASONS--<br>
     Although I'm not 100% sure what caused your 'bad experiences' with guys,
